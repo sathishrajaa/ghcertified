@@ -1,5 +1,5 @@
 ---
-title: "Question 033"
+title: "Question 039"
 question: "What is the purpose of the /optimize command in GitHub Copilot Chat?"
 ---
 
